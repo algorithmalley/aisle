@@ -2,6 +2,7 @@
   "recommendations": [
     "rust-lang.rust-analyzer",
     "jinxdash.prettier-rust",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    "vadimcn.vscode-lldb"
   ]
 }
